@@ -1,0 +1,15 @@
+{
+    "person":{
+        "firstName": "rose",
+        "lastName": "nguyen"
+    },
+    "work":{
+        "study": "student",
+        "program": "Digital Design and Development Program",
+        "url": "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/?gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jfD0sPYwCu2CO1nM47nE7DKPslSpEJCXsC17MvsCPOeU8-2ANTpNagaAtcyEALw_wcB&gclsrc=aw.ds"
+    },
+    "likes":{
+       "hobbies": ["watching films", "anime", "thrifting"],
+       "music": "steve lacy"
+    }
+}
